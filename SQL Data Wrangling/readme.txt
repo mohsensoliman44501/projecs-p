@@ -17,5 +17,4 @@ Task 9: Count the number of users deleted each day. Then count the number of use
 Task 10: Create a subtable of orders per day.
 Task 11: Create a subtable of orders per week.
 Task 12: create a subtable to send users an email about the item they viewed more recently.
-   note: get the last item that was viewed by a user BUT not ordered by that user.
 Task 13: Find the average time between orders.
