@@ -7,7 +7,7 @@ Data Wrangling, Analysis and AB Testing with SQL, Coursera.
 Tasks:
 Task 1: Pull a list of user email addresses, but only for non-deleted users.
 Task 2: Use the items table to count the number of items for sale in each category.
-TASK 3: Select all of the columns from the result when you JOIN the users table to the orders.
+TASK 3: Select all of the columns from the result when you JOIN the users table to the orders table.
 Task 4: Count the number of viewed_item events.
 Task 5: Compute the number of items in the items table which have been ordered.
 Task 6: For each user figure out if a user has ordered something, and when their first purchase was.
